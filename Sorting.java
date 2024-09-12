@@ -1,5 +1,3 @@
-package Practice;
-
 public class Sorting {
     public static void main(String[] args) {
         int[] arr = {5, 2, 8, 1, 9};
@@ -20,7 +18,7 @@ public class Sorting {
         for(int k:arr){
             System.out.print(k+" ");
         }
-        // System.out.println("second largest elements:"+ arr[arr.length-2]);
+       
     }
     
 }
